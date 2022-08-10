@@ -1,0 +1,22 @@
+{"level":"info","message":"Hello Semir"}
+info: Label🏷️: Aug-10-2022 10:22:03: Hello Semir
+info: undefined: Aug-10-2022 10:22:25: Hello Semir
+info: Aug-10-2022 10:22:39: Hello Semir
+info: Aug-10-2022 10:23:07: Hello Semir
+error: Aug-10-2022 10:23:07: Hello Semir error
+info: Aug-10-2022 10:23:48: Hello Semir
+error: Aug-10-2022 10:23:48: Hello Semir error
+info: Aug-10-2022 10:30:58: Hello Semir
+error: Aug-10-2022 10:30:58: Hello Semir error
+info: Aug-10-2022 10:31:14: Hello Semir
+error: Aug-10-2022 10:31:14: Hello Semir error
+info: Aug-10-2022 10:31:22: Hello Semir
+error: Aug-10-2022 10:31:22: Hello Semir error
+info: Aug-10-2022 10:37:32: Test
+info: Aug-10-2022 10:39:27: Test
+info: Aug-10-2022 10:40:29: Test
+warn: Aug-10-2022 10:40:29: Warn Test
+error: Aug-10-2022 10:40:29: Error Test
+info: Aug-10-2022 10:41:36: Test
+warn: Aug-10-2022 10:41:36: Warn Test
+error: Aug-10-2022 10:41:36: Error Test
